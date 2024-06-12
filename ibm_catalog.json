@@ -1,8 +1,8 @@
 {
   "products": [
     {
-      "label": "watsonx SaaS",
-      "name": "deploy-arch-ibm-watsonx-ai-saas",
+      "label": "Watson X - Generative AI",
+      "name": "Watson_X_-_Generative_AI",
       "product_kind": "solution",
       "tags": [
         "watson",
@@ -47,8 +47,8 @@
       ],
       "flavors": [
         {
-          "label": "standard",
-          "name": "standard",
+          "label": "watsonx SaaS",
+          "name": "watsonx SaaS",
           "working_directory": "./",
           "install_type": "fullstack",
           "licenses": [
