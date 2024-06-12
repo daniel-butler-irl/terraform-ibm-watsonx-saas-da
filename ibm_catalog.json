@@ -48,7 +48,7 @@
       "flavors": [
         {
           "label": "watsonx SaaS",
-          "name": "watsonx SaaS",
+          "name": "watsonxSaaS",
           "working_directory": "./",
           "install_type": "fullstack",
           "licenses": [
